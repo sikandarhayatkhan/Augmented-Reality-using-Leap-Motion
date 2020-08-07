@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HomeScreen.unity
+    guid: 3a431bb1d61e66943b7425256cd5d37e
+  - enabled: 1
+    path: Assets/Scenes/UserinfoInput.unity
+    guid: cff9e717a77fcd3449561b6e7b7ff855
+  - enabled: 1
+    path: Assets/Scenes/ExcerciseType.unity
+    guid: a968ac18ad585fa4c998220e21910a7d
+  - enabled: 1
+    path: Assets/Scenes/ObjectMathing.unity
+    guid: cffe356c57a89f1439c7fec986d09d95
+  - enabled: 1
+    path: Assets/Scenes/ObjectMathingPrac.unity
+    guid: a1aa85f15c4588e4eb12d31ae50af9d6
+  - enabled: 1
+    path: Assets/Scenes/Counting.unity
+    guid: c2e417987a3d412458558be23f313b73
+  - enabled: 1
+    path: Assets/Scenes/CountingPrac.unity
+    guid: 1e297e1470bc938418034d17a94c39f0
+  - enabled: 1
+    path: Assets/Scenes/ObjectMathingUrdu.unity
+    guid: 98b5fab03d14ea441945a62c7df3f2ae
+  - enabled: 1
+    path: Assets/Scenes/ObjectMathingUrduPrac.unity
+    guid: af7d69cc396b7794fb0822ac03f6611b
+  - enabled: 1
+    path: Assets/Scenes/Help.unity
+    guid: e5bdf4f25e088334ca3a68d4978ed53d
+  - enabled: 1
+    path: Assets/Scenes/Result.unity
+    guid: bb55ae7c687ed7447af9f5399babacca
+  - enabled: 1
+    path: Assets/Scenes/CountingUrdu.unity
+    guid: a92d24edb2ed1ae46b68967206d014c8
+  - enabled: 1
+    path: Assets/Scenes/CountingUrduPrac.unity
+    guid: ca7833c923573a64bafcf5238eb559fc
+  - enabled: 1
+    path: Assets/Scenes/ObjectRe.unity
+    guid: 351b3a143f4cd7e4ca23178cf87c15f7
+  - enabled: 1
+    path: Assets/Scenes/ObjectReB.unity
+    guid: 4b592081141fc1342aed73fb05577df6
+  - enabled: 1
+    path: Assets/Scenes/ObjectReC.unity
+    guid: f6d1442e118fbc8438da53b14f11960d
+  - enabled: 1
+    path: Assets/Scenes/ObjectReD.unity
+    guid: 8d3573e69c8fa274c9ed95c4f8f7d68d
+  - enabled: 1
+    path: Assets/Scenes/ObjectRePrac.unity
+    guid: 3b99811aa89f1914581c16019960c993
+  - enabled: 1
+    path: Assets/Scenes/ObjectReBPrac.unity
+    guid: fb8068ae24f48bf4e8223d932166231b
+  - enabled: 1
+    path: Assets/Scenes/ObjectReCPrac.unity
+    guid: 6112182227ce6814b8e466094d67928d
+  - enabled: 1
+    path: Assets/Scenes/ObjectReDPrac.unity
+    guid: 7c41d94ea89c5c74dbf92709c80745fa
+  - enabled: 1
+    path: Assets/Scenes/ObjectReUrdu.unity
+    guid: a39b6fcbc78acc34ab6880c762e72551
+  - enabled: 1
+    path: Assets/Scenes/ObjectReBUrdu.unity
+    guid: b12565f4a2c9e5b41aaf59827c80015b
+  - enabled: 1
+    path: Assets/Scenes/ObjectReCUrdu.unity
+    guid: 2062df0a53086524ba6c72c677755264
+  - enabled: 1
+    path: Assets/Scenes/ObjectReDUrdu.unity
+    guid: 4c99b381d6222f844b53ab578ebf90f9
+  - enabled: 1
+    path: Assets/Scenes/ObjectReUrduPrac.unity
+    guid: 834be427be045fe48986a11fda1e4de6
+  - enabled: 1
+    path: Assets/Scenes/ObjectReBUrduPrac.unity
+    guid: 5a03a4013d4bd2247b5a0db2a2b42943
+  - enabled: 1
+    path: Assets/Scenes/ObjectReCUrduPrac.unity
+    guid: ac777dce65853fc4fbf41eff9356aab1
+  - enabled: 1
+    path: Assets/Scenes/ObjectReDUrduPrac.unity
+    guid: 9cb6d760f3cf4b5458fa6f727bd91c56
+  m_configObjects: {}

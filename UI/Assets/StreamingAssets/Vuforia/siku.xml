@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="urdu_titly" size="300.000000 320.737335" />
+    <ImageTarget name="urdu_pankha" size="300.000000 300.000000" />
+    <ImageTarget name="urdu_duck" size="300.000000 300.000000" />
+    <ImageTarget name="urdu_mango" size="300.000000 300.000000" />
+    <ImageTarget name="D_duck" size="300.000000 300.000000" />
+    <ImageTarget name="C_chair" size="300.000000 300.000000" />
+    <ImageTarget name="B_ball" size="300.000000 300.000000" />
+    <ImageTarget name="A_apple" size="300.000000 300.000000" />
+    <ImageTarget name="obj_matching_marker" size="300.000000 110.722351" />
+    <ImageTarget name="marker" size="50.000000 35.000000" />
+    <ImageTarget name="marker_2" size="50.000000 50.000000" />
+  </Tracking>
+</QCARConfig>

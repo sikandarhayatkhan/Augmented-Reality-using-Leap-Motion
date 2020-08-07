@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 0f5ea4b167f4c4347aecd23da45baf71
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: fengshan_di1
+    100004: fengshan_di2
+    100006: fengshan_dianyuan
+    100008: fengshan_hougai
+    100010: fengshan_kaiguan
+    100012: fengshan_luosi
+    100014: fengshan_mada1
+    100016: fengshan_mada2
+    100018: fengshan_shanye
+    100020: fengshan_tanhuang
+    100022: fengshan_tiewang
+    100024: fengshan_wanggai
+    100026: fengshan_zhongbu
+    100028: fengshan_zhongbu2
+    100030: fengshan_zhongbu3
+    400000: //RootNode
+    400002: fengshan_di1
+    400004: fengshan_di2
+    400006: fengshan_dianyuan
+    400008: fengshan_hougai
+    400010: fengshan_kaiguan
+    400012: fengshan_luosi
+    400014: fengshan_mada1
+    400016: fengshan_mada2
+    400018: fengshan_shanye
+    400020: fengshan_tanhuang
+    400022: fengshan_tiewang
+    400024: fengshan_wanggai
+    400026: fengshan_zhongbu
+    400028: fengshan_zhongbu2
+    400030: fengshan_zhongbu3
+    2100000: fengshan_di1Mat
+    2100002: fengshan_di2Mat
+    2100004: fengshan_dianyuanMat
+    2100006: fengshan_hougaiMat
+    2100008: fengshan_kaiguanMat
+    2100010: fengshan_luosiMat
+    2100012: fengshan_mada1Mat
+    2100014: fengshan_mada2Mat
+    2100016: fengshan_shanyeMat
+    2100018: fengshan_tanhuangMat
+    2100020: fengshan_tiewangMat
+    2100022: fengshan_wanggaiMat
+    2100024: fengshan_zhongbuMat
+    2100026: fengshan_zhongbu2Mat
+    2100028: fengshan_zhongbu3Mat
+    2300000: fengshan_di1
+    2300002: fengshan_di2
+    2300004: fengshan_dianyuan
+    2300006: fengshan_hougai
+    2300008: fengshan_kaiguan
+    2300010: fengshan_luosi
+    2300012: fengshan_mada1
+    2300014: fengshan_mada2
+    2300016: fengshan_shanye
+    2300018: fengshan_tanhuang
+    2300020: fengshan_tiewang
+    2300022: fengshan_wanggai
+    2300024: fengshan_zhongbu
+    2300026: fengshan_zhongbu2
+    2300028: fengshan_zhongbu3
+    3300000: fengshan_di1
+    3300002: fengshan_di2
+    3300004: fengshan_dianyuan
+    3300006: fengshan_hougai
+    3300008: fengshan_kaiguan
+    3300010: fengshan_luosi
+    3300012: fengshan_mada1
+    3300014: fengshan_mada2
+    3300016: fengshan_shanye
+    3300018: fengshan_tanhuang
+    3300020: fengshan_tiewang
+    3300022: fengshan_wanggai
+    3300024: fengshan_zhongbu
+    3300026: fengshan_zhongbu2
+    3300028: fengshan_zhongbu3
+    4300000: fengshan_di1
+    4300002: fengshan_di2
+    4300004: fengshan_dianyuan
+    4300006: fengshan_hougai
+    4300008: fengshan_kaiguan
+    4300010: fengshan_luosi
+    4300012: fengshan_mada1
+    4300014: fengshan_mada2
+    4300016: fengshan_shanye
+    4300018: fengshan_tanhuang
+    4300020: fengshan_tiewang
+    4300022: fengshan_wanggai
+    4300024: fengshan_zhongbu
+    4300026: fengshan_zhongbu2
+    4300028: fengshan_zhongbu3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
